@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Colin Richards</h1>
 <h3 align="center">A passionate full stack developer from Utah</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://colinrichards.me)
+- 🔭 I’m currently working on my [Portfolio](https://colinrichards.me)
 
 - 🌱 I’m currently learning **React Native**
 
